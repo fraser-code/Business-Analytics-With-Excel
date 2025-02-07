@@ -15,5 +15,8 @@ Forecast future financial outcomes using regression and time series methods, pre
 ### Comparative Sector Analysis
 - **Revenue Comparison:** Analyze Year 4 revenue differences between the Consumer Staples and Consumer Discretionary sectors using box plots and bar graphs.
 - Operating Expense Insights:
-- Compare operating expenses across Health Care, Energy, and Consumer Staples sectors to identify financial management effectiveness.
-- Identify industries with operating expenses between 5 and 10 billion dollars and compare their financial profiles using bar charts and scatter plots.
+  - Compare operating expenses across Health Care, Energy, and Consumer Staples sectors to identify financial management effectiveness.
+  - Identify industries with operating expenses between 5 and 10 billion dollars and compare their financial profiles using bar charts and scatter plots.
+
+## Conclusion
+This project highlights the capabilities of Excel in performing deep financial analysis and providing strategic insights into the operations of large corporations. It showcases the potential to use structured data analysis in making informed business decisions and understanding market dynamics.
